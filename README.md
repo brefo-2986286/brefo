@@ -13,7 +13,7 @@ Welcome to my GitHub profile! Blending a rich background in accounting, finance,
 - 📈 I’m dedicated to continuous learning and applying my diverse experience to contribute to safer and more efficient financial technology systems.
 
 ## Connect With Me
-- 📫 How to reach me: [breffo70@hotmail.com]
+- 📫 How to reach me: [brefo@students.fscj.edu]
 - 👥 LinkedIn:https://www.linkedin.com/in/omar-breff-38142224a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BARXOhHmgSjGQHNRh2%2BO2eA%3D%3D
 
 Feel free to explore my repositories. I welcome discussions on finance and technology integration, cybersecurity in the financial sector, and potential collaborations or opportunities!
